@@ -1,6 +1,6 @@
 # hello_git
 
-
+For testing git actions.
 
 ## Getting started
 
